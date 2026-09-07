@@ -1,0 +1,13 @@
+name: BiasVariance
+title: BiasVariance
+username:
+account: dirkwulff
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7338595
+bundleId: 6414339
+url: https://dirkwulff.shinyapps.io/BiasVariance/
+when: 1666082960.56719
+lastSyncTime: 1666082960.5672
+asMultiple: FALSE
+asStatic: FALSE
