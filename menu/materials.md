@@ -14,7 +14,7 @@ e {
 
 <br><br>
 
-## Friday, 25.10.
+## Friday, 11.09.
 
 #### Readings (mandatory)
 
@@ -37,7 +37,7 @@ e {
 
 <br><br>
 
-## Friday, 8.11.
+## Saturday, 12.09.
 
 #### Readings (mandatory)
 
@@ -61,7 +61,7 @@ e {
 
 <br><br>
 
-## Saturday, 9.11.
+## Monday, 14.09.
 
 #### Schedule
 
