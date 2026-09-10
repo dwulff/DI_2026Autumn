@@ -33,7 +33,7 @@ e {
 
 #### Lean coffee
 
-<a href="">Join by clicking here</a>
+<a href="https://www.leancoffeetable.com/TaskBoard/View/47a8120c-4ea0-430a-b63d-d408949010d2?guest=true">Join by clicking here</a>
 
 <br><br>
 
@@ -57,7 +57,7 @@ e {
 
 #### Lean coffee
 
-<a href="">Join by clicking here</a>
+<a href="https://www.leancoffeetable.com/TaskBoard/View/47a8120c-4ea0-430a-b63d-d408949010d2?guest=true">Join by clicking here</a>
 
 <br><br>
 
